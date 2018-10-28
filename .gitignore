@@ -1,2 +1,10 @@
 
 *.xcuserdata
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+
+
+xcuserdata/
+Pods/
